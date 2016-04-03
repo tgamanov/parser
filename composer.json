@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "testnamespace\\": "libs/"
+        }
+    },
+    "require": {
+        "sunra/php-simple-html-dom-parser": "v1.5.0",
+        "paquettg/php-html-parser": "^1.6"
+    }
+}

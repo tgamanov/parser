@@ -21,12 +21,3 @@
 2. https://github.com/tgamanov/parser
 показать скрипт, которым выполнялось задание из п.2
 
-3. http://php-lessons.com/wp/res.sql
-показать собранную финальную базу данных из п.3
-
-4. http://php-lessons.com/wp
-прислать ссылку на страницу из п.4
-
-5. http://php-lessons.com/wp/robots.txt
-Закрыть, созданный в п.4 сайт/страницу на сайте, от индексации.
-
